@@ -1,0 +1,14 @@
+- fix long notes score  DONE
+- fix long notes early time bug
+
+- charting script:
+    access from menu for both new and existing levels
+    note editor / speed editor / graphic editor
+- speed level adjustment
+- graphics
+- press indicators
+
+- add 4 directional notes for joystick compatibility
+- merge joystick to controls and charting
+
+- GPIO merging DONE
